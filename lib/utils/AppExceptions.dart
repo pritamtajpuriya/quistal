@@ -1,0 +1,4 @@
+class NoMoreResult implements Exception{
+
+
+}

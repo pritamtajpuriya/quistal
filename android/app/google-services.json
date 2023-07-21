@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "981544070465",
+    "project_id": "mhealth-1bf88",
+    "storage_bucket": "mhealth-1bf88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981544070465:android:0853d5cd106b2f2e14c5c0",
+        "android_client_info": {
+          "package_name": "com.nepal.mhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981544070465-sedbsuvd2obddf5ukus5g923on3c6gbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Ujcnvxor7aYgI-nyS2FTc9I3YBGvRe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981544070465-sedbsuvd2obddf5ukus5g923on3c6gbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
